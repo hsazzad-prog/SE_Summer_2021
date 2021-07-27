@@ -21,7 +21,8 @@ Dance <input type="radio" name="hobby">
 <br>
 
 <h1>hellow World <h1>
-<input type="date">
+<h2>hellow world 2</h2>
+  <input type="date">
 
 <input type="submit" value="submit">
 <input type="reset">
